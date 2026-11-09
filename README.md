@@ -27,7 +27,7 @@ Hello! I'm Sohini, an enthusiastic learner passionate about Artificial Intellige
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,sklearn,pandas,numpy,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,pandas,numpy,git,github,vscode,jupyter" />
 </p>
 
 **Also exploring:** Streamlit | Machine Learning | Data Science | Computer Vision
